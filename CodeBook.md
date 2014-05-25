@@ -33,6 +33,8 @@ The set of variables that were estimated from these signals are:
 mean(): Mean value
 std(): Standard deviation
 
+**Codebook**
+
 subject
   Participant ID (1 to 30)
 
